@@ -1,0 +1,249 @@
+{
+  "storeName": "MS99",
+  "whatsappNumber": "6282281912749",
+  "instagram": "migostore99",
+  "saweria": "DaffaAlghazali",
+  "hours": "Setiap hari, 06.00 - 23.00 WIB",
+  "pages": {
+    "joki": {
+      "label": "Joki Mobile Legend",
+      "topic": "layanan joki",
+      "orderVerb": "pesan joki",
+      "itemLabel": "Layanan",
+      "ask": "Game/akun: ",
+      "titleMain": "Joki game cepat,",
+      "titleAccent": "rapi",
+      "titleEnd": "& terpercaya",
+      "subtitle": "Naik rank tanpa pusing. Pilih paket, chat kami, dan pantau progres langsung lewat WhatsApp.",
+      "sectionTitle": "Daftar harga joki",
+      "sectionLead": "Pilih paket yang kamu butuhkan, lalu pesan langsung lewat WhatsApp.",
+      "stats": [
+        {
+          "v": "Cepat",
+          "t": "Dikerjakan segera"
+        },
+        {
+          "v": "Manual",
+          "t": "Tanpa script"
+        },
+        {
+          "v": "Laporan",
+          "t": "Progres via chat"
+        }
+      ],
+      "trust": [
+        {
+          "title": "Proses cepat",
+          "text": "Pengerjaan dimulai segera setelah pembayaran dikonfirmasi."
+        },
+        {
+          "title": "Garansi",
+          "text": "Target tidak tercapai sesuai paket? Dilanjutkan tanpa biaya tambahan."
+        },
+        {
+          "title": "Data aman",
+          "text": "Akun dikerjakan manual dan detail tidak dibagikan ke pihak lain."
+        },
+        {
+          "title": "Support responsif",
+          "text": "Pantau progres dan tanya apa saja lewat WhatsApp."
+        }
+      ],
+      "steps": [
+        {
+          "title": "Chat WhatsApp",
+          "text": "Pilih paket dan tanyakan slot yang tersedia."
+        },
+        {
+          "title": "Kirim detail akun",
+          "text": "Sebutkan game, rank saat ini, dan target rank."
+        },
+        {
+          "title": "Proses & selesai",
+          "text": "Joki mengerjakan dan kamu menerima laporan progres."
+        }
+      ],
+      "items": [
+        {
+          "name": "GrandMaster",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 5000,
+          "info": "1 hari Pengerjaan"
+        },
+        {
+          "name": "Epic",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 6000,
+          "info": "1 hari Pengerjaan"
+        },
+        {
+          "name": "Legend",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 7000,
+          "info": "1 hari pengerjaan"
+        },
+        {
+          "name": "Mythic",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 10000,
+          "info": "Tergantung Banyak Bintang"
+        },
+        {
+          "name": "Mythic Honor",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 12000,
+          "info": "Tergantung Banyak Bintang"
+        },
+        {
+          "name": "Mythic Glory",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 15000,
+          "info": "Tergantung Banyak Bintang"
+        },
+        {
+          "name": "Mythic Immortal",
+          "description": "Capek stuck di rank yang sama? Serahkan ke kami. Push rank ML dikerjakan manual, rapi, dan hemat waktu, dengan update progres berkala sampai target tercapai.",
+          "price": 23000,
+          "info": "Tergantung Banyak Bintang"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Apakah akun saya aman?",
+          "answer": "Akun dikerjakan manual tanpa script atau aplikasi pihak ketiga. Kami menyarankan mengganti kata sandi setelah pesanan selesai."
+        },
+        {
+          "question": "Berapa lama pengerjaannya?",
+          "answer": "Tergantung layanan dan antrean. Estimasi tertera di setiap paket dan dikonfirmasi saat chat."
+        },
+        {
+          "question": "Bagaimana cara pembayaran?",
+          "answer": "Pembayaran dikonfirmasi langsung lewat WhatsApp. Website ini hanya menampilkan informasi dan harga."
+        },
+        {
+          "question": "Apakah ada garansi?",
+          "answer": "Ada. Jika target paket belum tercapai, pengerjaan dilanjutkan sesuai ketentuan yang disepakati saat pemesanan."
+        },
+        {
+          "question": "Bisakah saya memantau progres?",
+          "answer": "Bisa. Kami mengirim update berkala lewat WhatsApp, termasuk bukti tangkapan layar."
+        }
+      ],
+      "disclaimer": "Kami tidak berafiliasi dengan penerbit game mana pun. Seluruh merek dagang milik pemiliknya masing-masing. Jasa joki dapat melanggar syarat layanan sebagian game; risiko ditanggung pemesan."
+    },
+    "jualan": {
+      "label": "Unblock Imei",
+      "topic": "produk",
+      "orderVerb": "pesan produk",
+      "itemLabel": "Produk",
+      "ask": "Jumlah/varian: ",
+      "titleMain": "Belanja mudah,",
+      "titleAccent": "praktis",
+      "titleEnd": "& harga bersahabat",
+      "subtitle": "Kamu Capek Sinyal Hilang Terus?Langsung Order Saja Layanan Unblock Kami Tanpa Ribet.",
+      "sectionTitle": "Daftar produk",
+      "sectionLead": "Pilih produk yang kamu butuhkan, lalu pesan langsung lewat WhatsApp.",
+      "stats": [
+        {
+          "v": "Ready",
+          "t": "Stok diperbarui"
+        },
+        {
+          "v": "Mudah",
+          "t": "Pesan via chat"
+        },
+        {
+          "v": "Ramah",
+          "t": "Admin responsif"
+        }
+      ],
+      "trust": [
+        {
+          "title": "Proses cepat",
+          "text": "Pesanan diproses segera setelah pembayaran dikonfirmasi."
+        },
+        {
+          "title": "Harga jelas",
+          "text": "Harga tertera di halaman ini, tanpa biaya tersembunyi."
+        },
+        {
+          "title": "Pembayaran aman",
+          "text": "Pembayaran dikonfirmasi langsung lewat chat dengan admin."
+        },
+        {
+          "title": "Admin responsif",
+          "text": "Tanya stok dan varian kapan saja lewat WhatsApp."
+        }
+      ],
+      "steps": [
+        {
+          "title": "Chat WhatsApp",
+          "text": "Pilih produk dan tanyakan ketersediaan stok."
+        },
+        {
+          "title": "Kirim detail pesanan",
+          "text": "Sebutkan jumlah, varian, dan data yang diperlukan."
+        },
+        {
+          "title": "Bayar & terima",
+          "text": "Setelah pembayaran dikonfirmasi, pesanan diproses."
+        }
+      ],
+      "items": [
+        {
+          "name": "UNBLOCK IMEI 1 BULAN",
+          "description": "MASA UNBLOCK 30 HARI.",
+          "price": 60000,
+          "info": "Ready stok"
+        },
+        {
+          "name": "UNBLOCK IMEI 3 BULAN",
+          "description": "MASA UNLOBK IMEI 90 HARI.",
+          "price": 150000,
+          "info": "Ready stok"
+        },
+        {
+          "name": "UNBLOCK IMEI 6 BULAN",
+          "description": "MASA UNBLOCK 180 HARI.",
+          "price": 280000,
+          "info": "Ready stok"
+        },
+{
+          "name": "UNBLOCK IMEI 1 TAHUN",
+          "description": "MASA UNBLOCK 12 BULAN.",
+          "price": 450000,
+          "info": "Ready stok"
+        },
+        {
+          "name": "UNBLOCK IMEI PERMANEN",
+          "description": "MASA UNBLOCK SELAMANYA.",
+          "price": 650000,
+          "info": "Ready stok"
+        }
+      ],
+      "faq": [
+        {
+          "question": "Apakah stok selalu tersedia?",
+          "answer": "Stok berubah sewaktu-waktu. Tanyakan dulu lewat WhatsApp sebelum membayar."
+        },
+        {
+          "question": "Bagaimana cara pemesanan?",
+          "answer": "Klik tombol pesan pada produk, kirim pesan WhatsApp yang sudah terisi otomatis, lalu ikuti arahan admin."
+        },
+        {
+          "question": "Metode pembayaran apa yang tersedia?",
+          "answer": "Pembayaran dikonfirmasi langsung lewat WhatsApp. Website ini hanya menampilkan informasi dan harga."
+        },
+        {
+          "question": "Berapa lama pesanan diproses?",
+          "answer": "Umumnya sesaat setelah pembayaran dikonfirmasi. Untuk pre-order, estimasi tertera di produk."
+        },
+        {
+          "question": "Bagaimana kalau ada kendala?",
+          "answer": "Hubungi kami lewat WhatsApp atau Instagram dan kami bantu secepatnya."
+        }
+      ],
+      "disclaimer": "Harga dan ketersediaan produk dapat berubah sewaktu-waktu. Hubungi admin untuk info terbaru."
+    }
+  }
+}
